@@ -1,3 +1,4 @@
+// step-2
 function getPin()
 {
     const pin=generatePin();
@@ -13,7 +14,7 @@ function getPin()
     }
 }
 
-
+// step-1
 function generatePin()
 {
     const random=Math.round(Math.random()*10000);
